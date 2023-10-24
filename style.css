@@ -56,4 +56,12 @@ p{
 .bio-work{
     background-image: url(img/latest-work-bg.png);
     background-repeat: no-repeat;
+    height: 300px;
+}
+.review{
+    width: 60%;
+    text-align: center;
+    margin: 2px 50px;
+    border: 5px;
+    
 }
