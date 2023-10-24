@@ -45,8 +45,10 @@ p{
     background-image: linear-gradient(45deg,purple, red);
     
 }
-.middle{
+
+h4{
     text-align: center;
+    font-size: 30px;
 }
 .onebythree{
     width: 30%;
@@ -59,9 +61,21 @@ p{
     height: 300px;
 }
 .review{
-    width: 60%;
     text-align: center;
-    margin: 2px 50px;
-    border: 5px;
+    margin: 20px 80px;
+    border: 5px solid white;
+    border-radius: 30px;
+
+}
+#mail{
+    background-color: rgb(252, 55, 170);
+    height: 200px;
+    color: white;
     
+}
+.bottom{
+    background-image: url(img/footer-bg.png);
+}
+h6{
+    font-size: 20px;
 }
