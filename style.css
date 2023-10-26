@@ -52,9 +52,9 @@ h4{
     font-size: 30px;
 }
 .onebythree{
-    width: 30%;
+    width: 27%;
     float: left;
-    padding-left: 3%;
+    padding: 3%;
 }
 .bio-work{
     background-image: url(img/latest-work-bg.png);
